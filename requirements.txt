@@ -1,0 +1,15 @@
+# Core dependencies
+numpy
+matplotlib
+opencv-python
+pyserial
+
+# Testing and development
+unittest2
+pytest
+
+# Logging and configuration
+python-dotenv
+
+#(optional)
+pillow
